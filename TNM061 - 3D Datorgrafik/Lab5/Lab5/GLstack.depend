@@ -1,0 +1,271 @@
+# depslib dependency file v1.0
+1487776342 source:c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\matrixstack.cpp
+	"MatrixStack.hpp"
+
+1461158556 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\matrixstack.hpp
+	<cmath>
+	<cstdlib>
+	<cstdio>
+	<GLFW/glfw3.h>
+
+1461158555 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1487776306 source:c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\rotator.cpp
+	"Rotator.hpp"
+
+1487776198 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\rotator.hpp
+	<GLFW/glfw3.h>
+	<cmath>
+
+1461158557 source:c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\shader.cpp
+	"Shader.hpp"
+
+1461158555 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\shader.hpp
+	<GLFW/glfw3.h>
+	"tnm061.hpp"
+	<cstdio>
+
+1461158556 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\tnm061.hpp
+	<GL/glext.h>
+
+1461158555 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\gl\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1487776416 source:c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\texture.cpp
+	"Texture.hpp"
+
+1461158557 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\texture.hpp
+	<GLFW/glfw3.h>
+	<cstdio>
+	<cstring>
+	<GL/glext.h>
+	"tnm061.hpp"
+
+1461158556 source:c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\tnm061.cpp
+	<stdio.h>
+	<GLFW/glfw3.h>
+	<GL/glext.h>
+	"tnm061.hpp"
+
+1487776249 source:c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\trianglesoup.cpp
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<cstring>
+	"TriangleSoup.hpp"
+
+1461158556 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\trianglesoup.hpp
+	<GLFW/glfw3.h>
+	<GL/glext.h>
+	"tnm061.hpp"
+
+1518965566 source:c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\glstack.cpp
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<GLFW/glfw3.h>
+	<GL/glext.h>
+	"tnm061.hpp"
+	"Shader.hpp"
+	"Texture.hpp"
+	"TriangleSoup.hpp"
+	"Rotator.hpp"
+	"MatrixStack.hpp"
+
+1519214780 source:c:\users\thoin216\downloads\lab5\lab5\glstack.cpp
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<GLFW/glfw3.h>
+	<GL/glext.h>
+	"tnm061.hpp"
+	"Shader.hpp"
+	"Texture.hpp"
+	"TriangleSoup.hpp"
+	"Rotator.hpp"
+	"MatrixStack.hpp"
+
+1519205528 c:\users\thoin216\downloads\lab5\lab5\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1519205528 c:\users\thoin216\downloads\lab5\lab5\gl\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1519205528 c:\users\thoin216\downloads\lab5\lab5\tnm061.hpp
+	<GL/glext.h>
+
+1519205528 c:\users\thoin216\downloads\lab5\lab5\shader.hpp
+	<GLFW/glfw3.h>
+	"tnm061.hpp"
+	<cstdio>
+
+1519205528 c:\users\thoin216\downloads\lab5\lab5\texture.hpp
+	<GLFW/glfw3.h>
+	<cstdio>
+	<cstring>
+	<GL/glext.h>
+	"tnm061.hpp"
+
+1519205528 c:\users\thoin216\downloads\lab5\lab5\trianglesoup.hpp
+	<GLFW/glfw3.h>
+	<GL/glext.h>
+	"tnm061.hpp"
+
+1519205528 c:\users\thoin216\downloads\lab5\lab5\rotator.hpp
+	<GLFW/glfw3.h>
+	<cmath>
+
+1519205528 c:\users\thoin216\downloads\lab5\lab5\matrixstack.hpp
+	<cmath>
+	<cstdlib>
+	<cstdio>
+	<GLFW/glfw3.h>
+
+1519205527 source:c:\users\thoin216\downloads\lab5\lab5\matrixstack.cpp
+	"MatrixStack.hpp"
+
+1519205528 source:c:\users\thoin216\downloads\lab5\lab5\rotator.cpp
+	"Rotator.hpp"
+
+1519205528 source:c:\users\thoin216\downloads\lab5\lab5\shader.cpp
+	"Shader.hpp"
+
+1519205528 source:c:\users\thoin216\downloads\lab5\lab5\texture.cpp
+	"Texture.hpp"
+
+1519205528 source:c:\users\thoin216\downloads\lab5\lab5\tnm061.cpp
+	<stdio.h>
+	<GLFW/glfw3.h>
+	<GL/glext.h>
+	"tnm061.hpp"
+
+1519205528 source:c:\users\thoin216\downloads\lab5\lab5\trianglesoup.cpp
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<cstring>
+	"TriangleSoup.hpp"
+
+1519216384 source:c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\lab5\glstack.cpp
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<GLFW/glfw3.h>
+	<GL/glext.h>
+	"tnm061.hpp"
+	"Shader.hpp"
+	"Texture.hpp"
+	"TriangleSoup.hpp"
+	"Rotator.hpp"
+	"MatrixStack.hpp"
+
+1519205530 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\lab5\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1519205530 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\lab5\gl\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1519205530 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\lab5\tnm061.hpp
+	<GL/glext.h>
+
+1519205530 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\lab5\shader.hpp
+	<GLFW/glfw3.h>
+	"tnm061.hpp"
+	<cstdio>
+
+1519205530 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\lab5\texture.hpp
+	<GLFW/glfw3.h>
+	<cstdio>
+	<cstring>
+	<GL/glext.h>
+	"tnm061.hpp"
+
+1519205530 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\lab5\trianglesoup.hpp
+	<GLFW/glfw3.h>
+	<GL/glext.h>
+	"tnm061.hpp"
+
+1519205530 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\lab5\rotator.hpp
+	<GLFW/glfw3.h>
+	<cmath>
+
+1519205530 c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\lab5\matrixstack.hpp
+	<cmath>
+	<cstdlib>
+	<cstdio>
+	<GLFW/glfw3.h>
+
+1519205528 source:c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\lab5\matrixstack.cpp
+	"MatrixStack.hpp"
+
+1519205530 source:c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\lab5\rotator.cpp
+	"Rotator.hpp"
+
+1519205530 source:c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\lab5\shader.cpp
+	"Shader.hpp"
+
+1519205530 source:c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\lab5\texture.cpp
+	"Texture.hpp"
+
+1519205530 source:c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\lab5\tnm061.cpp
+	<stdio.h>
+	<GLFW/glfw3.h>
+	<GL/glext.h>
+	"tnm061.hpp"
+
+1519205530 source:c:\users\thoma\desktop\uni\tnm061 - datorgrafik\lab5\lab5\trianglesoup.cpp
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<cstring>
+	"TriangleSoup.hpp"
+
